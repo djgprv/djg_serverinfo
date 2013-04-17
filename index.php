@@ -23,7 +23,7 @@ Plugin::setInfos(array(
     'id'          => 'djg_serverinfo',
     'title'       => __('[djg] Serverinfo'),
     'description' => __('Serverinfo'),
-    'version'     => '0.0.3',
+    'version'     => '0.0.4',
    	'license'     => 'GPL',
 	'author'      => 'Michał Uchanst',
     'website'     => 'http://www.kreacjawww.pl/',

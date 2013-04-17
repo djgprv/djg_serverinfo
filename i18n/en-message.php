@@ -12,7 +12,7 @@
 
     return array(
 	/* Djgserverinfo.php*/
-    ':format TiB' => ':format TiB',
+        ':format TiB' => ':format TiB',
 	':format GiB' => ':format GiB',
 	':format MiB' => ':format MiB',
 	':format KiB' => ':format KiB',
@@ -21,7 +21,7 @@
 	'N/A' => 'N/A',
 	/* tables */
 	'Variable Name' => 'Variable Name',
-	'Value' => 'aVlue',
+	'Value' => 'Value',
 	/* views */
 	'General Overview' => 'Informacje podstawowe',
 	'PHP Information' => 'Informacje o PHP',

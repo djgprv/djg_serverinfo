@@ -1,0 +1,7 @@
+#djg{margin:10px 0;}
+#djg table.serverinfo {width:100%; font-size: 1em;}
+#djg table.serverinfo th {background: #3e83c9;color: #fff;font-weight: bold;padding: 2px 10px;text-align: left;border-right: 1px solid #fff;}
+#djg table.serverinfo td {padding:4px;border-bottom: 1px solid #95bce2;vertical-align: top;}
+#djg table.serverinfo td * {padding:4px;}
+#djg table.serverinfo tr.alt td {background: #ecf6fc;}
+#djg table.serverinfo tr.over td {background: #bcd4ec;}

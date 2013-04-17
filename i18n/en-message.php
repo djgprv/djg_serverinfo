@@ -23,15 +23,15 @@
 	'Variable Name' => 'Variable Name',
 	'Value' => 'Value',
 	/* views */
-	'General Overview' => 'Informacje podstawowe',
-	'PHP Information' => 'Informacje o PHP',
-	'MYSQL Information' => 'Informacje o MYSQL',
+	'General Overview' => 'General Overview',
+	'PHP Information' => 'PHP Information',
+	'MYSQL Information' => 'MYSQL Information',
 	/* sidebar */
-	'Display General Overview' => 'Wyświetl informacje podstawowe',
-	'Display PHP Information' => 'Wyświetl informacje o PHP',
-	'Display MYSQL Information' => 'Wyświetl informacje o MYSQL',
+	'Display General Overview' => 'Display General Overview',
+	'Display PHP Information' => 'Display PHP Information',
+	'Display MYSQL Information' => 'Display MYSQL Information',
 	/* general */
-	'OS' => 'System operacyjny',
+	'OS' => 'OS',
 	'Database Data Disk Usage' => 'Database Data Disk Usage',
 	'Server' => 'Server',
 	'MYSQL Maximum Packet Size' => 'MYSQL Maximum Packet Size',

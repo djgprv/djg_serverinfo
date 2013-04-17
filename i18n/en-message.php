@@ -1,5 +1,4 @@
 <?php
-
     /**
      * Polish file for plugin ddjg_serverinfo
      *
@@ -9,7 +8,6 @@
      * @author Michał Uchnast <djgprv@gmail.com>
      * @version Wolf 0.7.5
      */
-
     return array(
 	/* Djgserverinfo.php*/
         ':format TiB' => ':format TiB',

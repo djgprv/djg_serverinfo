@@ -50,5 +50,3 @@
 	'Server Date/Time' => 'Server Date/Time',
 	'PHP Max Script Execute Time' => 'PHP Max Script Execute Time',
 	);
-
-

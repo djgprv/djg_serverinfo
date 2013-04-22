@@ -11,6 +11,8 @@
      */
 
     return array(
+	'[djg] Serverinfo' => '[djg] Serverinfo',
+	'Serverinfo' => 'Wyświetla konfigurację PHP, MySQL twojego serwera.',
 	/* Djgserverinfo.php*/
     ':format TiB' => ':format TiB',
 	':format GiB' => ':format GiB',
@@ -30,6 +32,7 @@
 	'Display General Overview' => 'Wyświetl informacje podstawowe',
 	'Display PHP Information' => 'Wyświetl informacje o PHP',
 	'Display MYSQL Information' => 'Wyświetl informacje o MYSQL',
+	'Display WolfCMS Information' => 'Wyświetl informacje WolfCMS',
 	/* general */
 	'OS' => 'System operacyjny',
 	'Database Data Disk Usage' => 'Database Data Disk Usage',

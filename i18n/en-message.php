@@ -11,8 +11,10 @@
      */
 
     return array(
+	'[djg] Serverinfo' => '[djg] Serverinfo',
+	'Serverinfo' => 'Display your host\'s PHP, MYSQL information.',
 	/* Djgserverinfo.php*/
-        ':format TiB' => ':format TiB',
+	':format TiB' => ':format TiB',
 	':format GiB' => ':format GiB',
 	':format MiB' => ':format MiB',
 	':format KiB' => ':format KiB',
@@ -30,6 +32,7 @@
 	'Display General Overview' => 'Display General Overview',
 	'Display PHP Information' => 'Display PHP Information',
 	'Display MYSQL Information' => 'Display MYSQL Information',
+	'Display WolfCMS Information' => 'Display WolfCMS Information',
 	/* general */
 	'OS' => 'OS',
 	'Database Data Disk Usage' => 'Database Data Disk Usage',
